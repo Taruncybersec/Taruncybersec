@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Taruncybersec
+- 👋 Hi, I’m @Tarun Kumar
+-
 - 👀 I’m interested in ... Coding/Programming
 - 🌱 I’m currently learning ... Coding
 - 💞️ I’m looking to collaborate on ... Ethical hacking
